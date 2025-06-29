@@ -1,5 +1,3 @@
-# Chimera405
-
 # Proyek Chimera405 - Analis Kripto Berbasis AI
 
 <p align="center">
@@ -13,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://imgur.com/a/qjVhBAO]" alt="Demo Bot Chimera405">
+  <img src="[https://github.com/RyumaTsukiro/Chimera405/blob/1e1058a606b48b5da4a10199db1b697574eb38b9/Chimera405.png]" alt="Demo Bot Chimera405">
   <br>
   <sup><strong>Gambar:</strong> Demo Bot Chimera405 sedang menganalisis sebuah proyek.</sup>
 </p>
