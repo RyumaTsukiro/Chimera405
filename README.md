@@ -11,10 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://private-user-images.githubusercontent.com/178024548/460280460-15a1394f-4ec4-431e-b216-dbee239033c9.png]" alt="Demo Bot Chimera405">
-  <br>
-  <sup><strong>Gambar:</strong> Demo Bot Chimera405 profile.</sup>
-</p>
+
 
 ---
 
