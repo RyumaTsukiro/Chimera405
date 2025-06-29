@@ -1,0 +1,20 @@
+# File Konfigurasi Rahasia
+config.py
+
+# File Database dan Log Lokal
+*.db
+*.db-journal
+*.log
+
+# Direktori Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File-file spesifik OS
+.DS_Store
+
+# File environment virtual
+.env
+venv/
