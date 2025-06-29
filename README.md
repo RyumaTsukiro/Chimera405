@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="[https://github.com/RyumaTsukiro/Chimera405/blob/1e1058a606b48b5da4a10199db1b697574eb38b9/Chimera405.png]" alt="Demo Bot Chimera405">
+  <img src="[https://private-user-images.githubusercontent.com/178024548/460280460-15a1394f-4ec4-431e-b216-dbee239033c9.png]" alt="Demo Bot Chimera405">
   <br>
-  <sup><strong>Gambar:</strong> Demo Bot Chimera405 sedang menganalisis sebuah proyek.</sup>
+  <sup><strong>Gambar:</strong> Demo Bot Chimera405 profile.</sup>
 </p>
 
 ---
